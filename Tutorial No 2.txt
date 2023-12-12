@@ -1,0 +1,10 @@
+In this Tutorial No 2 we will learn about the buttons which are give away in the last tutorial.
+
+	-In the lst turotial we learn the typing of home row except "g","h" keys.
+	-Here to do the typing with "h" and "g" keys follow the below points.
+	-You have to do the typing of home row as it is with adding "g" and "h".
+	-First start the typing with left hand fingures on buttons like "asdfgf".Press the "f" and "g" buttons by left hand forefingure.
+	-Now give space by right hand thumb.
+	-Now end the row typing with ";lkjhj".Press the "j" and "h" buttons by right hand forefingure.
+	-And give the space by left hand thumb.
+	-Do the above four steps recursively.

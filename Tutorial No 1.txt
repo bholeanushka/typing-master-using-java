@@ -1,0 +1,9 @@
+In this first Tutorial No 1 we will see about the keyboard information and also about how to do typing.
+	-The keyboard has three main alphabets row from them the first row is "asdfghjkl" this row also called as the home row. Beacuase after pressing any key on the keyboard you have to come on this home row.
+	-The next row is "qwertyuiop", this line is called as upper row. This line is above the home line.
+	-The last line is "zxcvbnm", this line is called s bottom row and it is below the home line.
+
+Now we will see about how to do the typing:-
+	-At the home row you have to place the fingers on the buttons as shown above in the figure.Here you have give away "g","h" and "'"(button left side of the enter) buttons in the home row and then place the fingures.
+	-Now start the typing as "asdf" by left hand and then give space by space-bar by the right hnd thumb and type ";lkj" by right hand and space by left hand thumb.
+	-Do the procedure shown in the above line means after ending space by left hand thumb start again from "a".
